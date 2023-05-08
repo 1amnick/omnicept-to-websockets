@@ -1,6 +1,8 @@
 # omnicept-to-websockets
 A python script to take the data from a hp reverb omnicept and turn it into websockets for neos or whatever else you want
+
 Its a bit jank but it works for me and hopefully it will work for whoever needs this neat data.
+
 Pull Requests are welcome if you want to make this better for the 5 people who want this.
 
 # Requires Omnicept Developer Liscense (free)
